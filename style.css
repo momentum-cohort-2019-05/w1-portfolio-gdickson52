@@ -1,0 +1,52 @@
+*{box-sizing: border-box;
+margin: 0;
+padding: 0;}
+
+
+
+
+.homepage-color{
+    align-items: center; 
+    display: flex;
+    background-color: black;
+    flex-direction: column;
+    width: 800px;
+    margin: 0 auto;
+    max-width: 100%;
+
+}
+ a {
+    color: white;
+    text-decoration: underline;
+    text-decoration-style: initial;
+
+}
+
+.container {
+    align-items: center;
+
+}
+
+.finishedproject-color{
+    background-color: black;
+    
+}
+
+.resume-color{
+    background-color: black;
+}
+
+p {
+    color: white;  
+}
+h1 {
+    color: white;
+}
+
+h2 { 
+    color: white;
+}
+h3 {
+    color: white;
+}
+
